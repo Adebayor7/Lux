@@ -21,7 +21,7 @@ function DisplayLenoCard() {
                   <img src={LenovoData.imageSrc} className='img-toggle' />
                   <h3 className='more-data' >{LenovoData.title}</h3>
                   <span className='more-data'>{LenovoData.price}</span>
-                  <span className='more-data'>{LenovoData.description}</span>
+                  {/* <span className='more-data'>{LenovoData.description}</span> */}
                 </div>
               </div>
             </div>

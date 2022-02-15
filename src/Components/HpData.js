@@ -21,7 +21,7 @@ const HpData = [
         description: '',
     },
     {
-        imageSrc: 'https://i.postimg.cc/Qdf1Y6LN/hp5.jpg',
+        imageSrc: 'https://i.postimg.cc/q7c3hjvc/t2-A6-FBE6auyk-MDKNj-Ry-WGg-removebg-preview.png',
         title: 'Hp 2020',
         price:'$400',
         description: '',
